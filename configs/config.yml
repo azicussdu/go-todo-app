@@ -1,0 +1,9 @@
+port: "8000"
+
+#Postgres Config
+db:
+  host: "localhost"
+  port: "5438"
+  user: "my_user"
+  name: "todo"
+  ssl_mode: "disable"
